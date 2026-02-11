@@ -16,27 +16,28 @@ knitr::opts_chunk$set(echo = TRUE)
 - Shashank's note: Making the repository was pretty simple since it was already created in GitHub classroom.
 - Sarah's note: The instructions were simple and straightforward
 - Dominic DiRe:  The repository successfully found, didn't create my own because we used the team 1 repo made by the bot
-
+- Owen's note: I did not have any errors in this step. 
 
 ### step 12.3
 
 - Shashank's note: Cloning it was fairly new as I've never done this in RStudio but the directions made it pretty self-explanatory.
 - Sarah's note: the steps were easy to follow
 - Dominic DiRe: GitHub repository successfully cloned to rstudio, no problems
-
+- Owen's note: I saved the required files into a folder under the wrong user. After realizing it was easy to correct in the file explorer.
 
 ### step 12.4
 
 - Shashank's note: Honestly I'd rather have used the terminal but the commands were a new change. It was a bit extensive but I got it to work eventually. 
 -Sarah's note: it was easy to understand
 - Dominic DiRe: Local changes made, saved, committed
-
+- Owen's note: I cleared the git stash which allowed me to successfully commit. It was cool to see the modified file when it worked.
 
 ### step 12.5
 
 - Shashank's note: I had a small mishap because it asked me to make a personal access token but once I got that going, it worked. It was only one button so this was a pretty easy step.
 -Sarah's note: worked well and saw the result right away
 - Dominic DiRe: Push works, but to avoid merge conflicts, I pulled from a teammates changes to get up to date
+-Owen's note: Pushing my local changes also provided no issues. It is an interesting tool to learn and makes sense to use. 
 
 
 ### step 12.6
@@ -44,7 +45,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - Shashank's note: It was cool to see my commit on the remote repository and see everyone's activity on the same repo. It was especially important for everyone to operate separately and push each time so we didn't face any merge conflicts.
 -Sarah's note: Worked and easy to see 
 - Dominic DiRe: The local change has been spotted
-
+- Owen's note: I saw the changes in the GitHub repo with no issues. 
 
 Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
